@@ -6,12 +6,12 @@
   DetourLocalBoundary.cpp
   DetourObstacleAvoidance.cpp
   DetourPathCorridor.cpp
+C:\Users\jmper\Development\Workspace\KR\cocos2d-x-xbox\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp(334,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   DetourPathQueue.cpp
   DetourProximityGrid.cpp
   DetourTileCache.cpp
   DetourTileCacheBuilder.cpp
   DetourAlloc.cpp
-C:\Users\jmper\Development\Workspace\KR\cocos2d-x-xbox\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp(334,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   DetourCommon.cpp
   DetourNavMesh.cpp
   DetourNavMeshBuilder.cpp
